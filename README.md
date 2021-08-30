@@ -1,2 +1,2 @@
 # ProyectoConjunto_Dmichel_CLobera
-Tarea 1 de la Clase 2
+Grupo para la tarea 1 de la clase 2, Daniela Michel Mercado y Cristina Lobera de la Mora
